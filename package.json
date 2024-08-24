@@ -2,7 +2,7 @@
   "scripts": {
     "sass": "sass --watch scss:css"
   },
-  "dependencies": {
-    "sass": "^1.77.8"
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
   }
 }
